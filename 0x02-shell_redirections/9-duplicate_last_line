@@ -1,2 +1,2 @@
 #!/bin/bash
-awk {print 'last line'}
+awk {print 'last line'} iacta
